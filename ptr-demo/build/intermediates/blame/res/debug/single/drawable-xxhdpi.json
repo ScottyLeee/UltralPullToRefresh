@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sky.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxhdpi\\sky.png"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sun.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxhdpi\\sun.png"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\buildings.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxhdpi\\buildings.png"
+    }
+]

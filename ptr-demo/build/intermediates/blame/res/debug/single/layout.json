@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_with_long_press.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_with_long_press.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\MyApplication\\ptr-lib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_materail_style.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_materail_style.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragmengt_ptr_home.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragmengt_ptr_home.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_scroll_view.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_scroll_view.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_view_pager.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_list_menu_item.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_base_list_menu_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_pager.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\activity_view_pager.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_content_frame_with_title_header.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_base_content_frame_with_title_header.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_indicator_item.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\view_pager_indicator_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_block_menu_item.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_base_block_menu_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_gridview.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_gridview.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_update_notify.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_update_notify.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\with_grid_view_item_image_list_grid.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\with_grid_view_item_image_list_grid.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_list_view_and_empty_view.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_list_view_and_empty_view.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_fragment_block_menu.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_base_fragment_block_menu.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_material_dialog.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_material_dialog.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_mints_base_header_bar_title.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_mints_base_header_bar_title.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_webview.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_webview.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_storehouse_header.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_storehouse_header.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_views_load_more_default_footer.xml",
+        "source": "C:\\Users\\ubt\\.android\\build-cache\\15f9c7c358ad29e614aa88d0e9047985d29b9da8\\output\\res\\layout\\cube_views_load_more_default_footer.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_textview.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_textview.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_fragment_list_view_header.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\view_pager_fragment_list_view_header.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "D:\\MyApplication\\ptr-lib\\build\\intermediates\\bundles\\default\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_item.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\with_long_press_list_view_item.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\with_long_press_list_view_item.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_viewgroup.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_viewgroup.xml"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_classic_header_with_list_view.xml",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\layout\\fragment_classic_header_with_list_view.xml"
+    }
+]

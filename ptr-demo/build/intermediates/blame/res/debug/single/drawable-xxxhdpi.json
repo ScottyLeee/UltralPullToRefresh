@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sun.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxxhdpi\\sun.png"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\buildings.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxxhdpi\\buildings.png"
+    },
+    {
+        "merged": "D:\\MyApplication\\ptr-demo\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\sky.png",
+        "source": "D:\\MyApplication\\ptr-demo\\res\\drawable-xxxhdpi\\sky.png"
+    }
+]

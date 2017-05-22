@@ -1,0 +1,10 @@
+#Mon May 22 18:10:53 CST 2017
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.2=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\clog-1.0.2_a6e62a29b37807dccd00726354753e80a78b5e9c
+base.1=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-r7_bded8277a5bf48977e12bcdd9eb9b8867652765c
+base.0=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1816c100d6fae07f77b0fd270b14c46e4ad7b47e
+file.2=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\clog-1.0.2_a6e62a29b37807dccd00726354753e80a78b5e9c\\classes.dex
+file.1=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-r7_bded8277a5bf48977e12bcdd9eb9b8867652765c\\classes.dex
+file.0=D\:\\MyApplication\\ptr-demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1816c100d6fae07f77b0fd270b14c46e4ad7b47e\\classes.dex
